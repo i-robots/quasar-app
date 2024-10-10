@@ -2,7 +2,7 @@
   "name": "quasar-project",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "Quasar App",
+  "productName": "Challenge task",
   "author": "henocq1 <158253670+henocq1@users.noreply.github.com>",
   "type": "module",
   "private": true,
